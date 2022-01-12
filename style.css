@@ -1,0 +1,28 @@
+body{
+    font-family: 'PT Serif', serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.alisclr{
+    color: darkcyan ;
+}
+section{display: flex;}
+.half{
+    width:50%;
+    padding-left: 3%;
+}
+.half img{width:75%}
+.hire {
+    color: floralwhite;
+    text-decoration: none;
+    background-image: linear-gradient(#65ebeb,#008b8b);
+    border-radius: 5%;
+    padding: 1.5% 5%;
+    font-size: large;
+}
+.top-banner{
+    background-image: url(/top-banner.png);
+    background-repeat: no-repeat;
+}
