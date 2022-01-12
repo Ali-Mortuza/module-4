@@ -25,12 +25,12 @@ h1{
     font-size: large;
 }
 .top-banner{
-    background-image: url(/img/top-banner.png);
+    background-image: url(img/top-banner.png);
     background-repeat: no-repeat;
 }
 
 .side-banner{
-    background-image: url(/img/dream-bg.png);
+    background-image: url(img/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -47,7 +47,7 @@ h1{
 }
 
 .expbg{
-    background-image: url(/img/exp-bg.png);
+    background-image: url(img/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
     background-position-y: 100%;
