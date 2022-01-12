@@ -53,3 +53,13 @@ h1{
     background-position-y: 100%;
    
 }
+#expone{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+#exptwo{
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(28, 187, 89), rgb(125, 224, 178));
+    border-image-slice: 1;
+}
